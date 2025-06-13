@@ -4,7 +4,7 @@ A simple, reliable Chrome extension that adds **"Export as TXT"** and **"Export 
 
 ---
 
-## 🧠 The Problem
+## The Problem
 
 Saving a full, structured copy of a Google Gemini conversation is surprisingly difficult.
 
